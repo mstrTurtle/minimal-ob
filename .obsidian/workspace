@@ -1,0 +1,161 @@
+{
+  "main": {
+    "id": "62203200252864f9",
+    "type": "split",
+    "children": [
+      {
+        "id": "3108e7acb44d1f18",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "大三上课程/网络应用开发实验.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "34593497758cfdb4",
+    "type": "split",
+    "children": [
+      {
+        "id": "fd45870ac7f612e8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d877ea44084031f0",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "5f86a6e06d655624",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#TODO/网络应用大作业",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": true,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "0ce66fa4951ef0d1",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 220.5
+  },
+  "right": {
+    "id": "c7e5856abca22fd5",
+    "type": "split",
+    "children": [
+      {
+        "id": "04a7bd17f37e184e",
+        "type": "tabs",
+        "dimension": 56.06060606060605,
+        "children": [
+          {
+            "id": "07fd68f3ccaa40fd",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "大三上课程/网络应用开发实验.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "4ce0c1e6afa65ee8",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "大三上课程/网络应用开发实验.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2c32432b5aa7648e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "大三上课程/网络应用开发实验.md"
+              }
+            }
+          },
+          {
+            "id": "398c3b46f15ecc2a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      },
+      {
+        "id": "3d2c6a6c06869ad2",
+        "type": "tabs",
+        "dimension": 43.93939393939395,
+        "children": [
+          {
+            "id": "36adf377ba6d37f3",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 273.5
+  },
+  "active": "398c3b46f15ecc2a",
+  "lastOpenFiles": [
+    "daily/Sep/2022-09-15.md",
+    "daily/2022-10-14.md",
+    "daily/2022-10-13.md",
+    "Understanding Monads.md",
+    "python：MRO的计算方式.md",
+    "Overview.md",
+    "小猪.md",
+    "daily/2022-10-03.md",
+    "assets/软工作业p4.png",
+    "assets/软工作业p3.jpg"
+  ]
+}

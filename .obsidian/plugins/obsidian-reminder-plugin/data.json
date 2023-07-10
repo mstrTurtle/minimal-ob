@@ -1,0 +1,38 @@
+{
+  "scanned": true,
+  "reminders": {
+    "内置功能大类/orgs - obsidian org日常任务/四月org文件.md": [
+      {
+        "title": "校园网和🪜续费",
+        "time": "2023-07-20",
+        "rowNumber": 3
+      }
+    ],
+    "游泳补测事项.md": [
+      {
+        "title": "去练习游泳",
+        "time": "2023-06-28",
+        "rowNumber": 8
+      }
+    ]
+  },
+  "debug": false,
+  "settings": {
+    "reminderTime": "09:00",
+    "laters": "In 30 minutes\nIn 1 hour\nIn 3 hours\nTomorrow\nNext week",
+    "useSystemNotification": false,
+    "autoCompleteTrigger": "(@",
+    "primaryReminderFormat": "ReminderPluginReminderFormat",
+    "enableReminderPluginReminderFormat": true,
+    "dateFormat": "YYYY-MM-DD",
+    "dateTimeFormat": "YYYY-MM-DD HH:mm",
+    "strictDateFormat": false,
+    "linkDatesToDailyNotes": false,
+    "enableTasksPluginReminderFormat": true,
+    "useCustomEmojiForTasksPlugin": false,
+    "removeTagsForTasksPlugin": false,
+    "enableKanbanPluginReminderFormat": false,
+    "editDetectionSec": 10,
+    "reminderCheckIntervalSec": 5
+  }
+}

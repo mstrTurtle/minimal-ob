@@ -1,0 +1,29 @@
+{
+  "items": [
+    {
+      "type": "file",
+      "title": "我的白板",
+      "path": "我的白板.canvas"
+    },
+    {
+      "type": "file",
+      "title": "我的日历",
+      "path": "内置功能大类/tasksCalendar/我的日历cal.md"
+    },
+    {
+      "type": "file",
+      "title": "面试用的知识",
+      "path": "3次要大类/实习就业/面试用的知识.md"
+    },
+    {
+      "type": "file",
+      "title": "最近七日任务",
+      "path": "最近七日任务.md"
+    },
+    {
+      "type": "file",
+      "title": "三月org文件",
+      "path": "内置功能大类/orgs - obsidian org日常任务/三月org文件.md"
+    }
+  ]
+}

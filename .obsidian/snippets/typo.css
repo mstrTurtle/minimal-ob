@@ -1,0 +1,88 @@
+/*给图片加阴影*/
+.markdown-source-view.mod-cm6 .internal-embed > img,
+.markdown-preview-view .internal-embed > img {
+    box-shadow: 8px 10px 4px 1px rgba(0, 0, 0, .25);
+    border:1px solid #000000;
+    //margin: 0.25rem 0.25rem 0.75rem 0.25rem;
+}
+.table-view-table, .dataview-container, .dynamic-toc {
+    box-shadow: 3px 4px 4px 1px rgba(0, 0, 0, .25);
+    border:1px solid #000000;
+}
+/*给分割线加颜色*/
+hr {
+    border-color: indianred;
+}
+/*让大纲树黑一点*/
+.tree-item-self{
+    --nav-item-color: black;
+}
+/*让文件树黑一点*/
+.nav-folder-title, .nav-file-title{
+    --nav-item-color: black;
+}
+/*让代码别是灰的, 弄成深黑的*/
+.cm-s-obsidian .HyperMD-codeblock {
+    --code-normal: black;
+}
+.cm-inline-code{
+    --code-background: #E8E8E8;
+    --code-normal: black;
+    --code-normal: red;
+}
+/*让斜体正常些*/
+i, em, span.cm-em {
+	font-family: "Birka LT Pro", "得意黑";
+}
+span.cm-strong{
+    --bold-color: #EF6C00;
+}
+
+.inline-title{
+  --inline-title-font: "Myriad Pro", "更纱黑体 SC";
+  --inline-title-weight: bold;
+}
+
+/* Change header size in Edit mode */
+/*把标题改得正常些 - 编辑模式*/
+.cm-s-obsidian .HyperMD-header-1 {
+  font-size: 1.2em;
+}
+.cm-s-obsidian .HyperMD-header-2 {
+  font-size: 1.1em;
+}
+.cm-s-obsidian .HyperMD-header-3 {
+  font-size: 1.1em;
+}
+.cm-s-obsidian .HyperMD-header-4 {
+  font-size: 1.1em;
+}
+.cm-s-obsidian .HyperMD-header-5 {
+  font-size: 1em;
+}
+.cm-s-obsidian .HyperMD-header-1,
+.cm-s-obsidian .HyperMD-header-2,
+.cm-s-obsidian .HyperMD-header-3,
+.cm-s-obsidian .HyperMD-header-4,
+.cm-s-obsidian .HyperMD-header-5 {
+  font-family: "Myriad Pro Condensed", "更纱黑体 SC";
+  font-weight: bold;
+}
+/*把标题改得正常些 - 预览模式*/
+h1,
+h2,
+h3,
+h4,
+h5 {
+  --h1-font: "Myriad Pro Condensed", "更纱黑体 SC";
+  --h2-font: "Myriad Pro Condensed", "更纱黑体 SC";
+  --h3-font: "Myriad Pro Condensed", "更纱黑体 SC";
+  --h4-font: "Myriad Pro Condensed", "更纱黑体 SC";
+  --h5-font: "Myriad Pro Condensed", "更纱黑体 SC";
+  --h1-weight: bold;
+  --h2-weight: bold;
+  --h3-weight: bold;
+  --h4-weight: bold;
+  --h5-weight: bold;
+}
+

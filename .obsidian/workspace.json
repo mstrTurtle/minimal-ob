@@ -1,0 +1,398 @@
+{
+  "main": {
+    "id": "62203200252864f9",
+    "type": "split",
+    "children": [
+      {
+        "id": "1457dd57092c1711",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f53d3ad20be492db",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "478ccd16719df8f3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "内置功能大类/tasksCalendar/我的日历cal.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4e54862c1778e984",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3次要大类/实习就业/算法/01背包.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "75d2785499f0cb35",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "完全背包.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "185c73ffc6c1ce39",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "鼎甲笔试.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "720838e0149dabcb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "找出数组中重复的数字.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "76305913736ec514",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "找出数组中重复的数字.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3ed730ca5dc70811",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "新加坡人口白皮书讲话笔记.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "20a4965d1fecc4a4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "面试问题辑录（网络编程OSITCPIP）.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "79bf90757e8bd675",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "百度飞桨.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4e2fba8d77df8c07",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "LINUX IO多路复用.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "aee23d3926af6798",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "asyncio原理.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "02bec196d556847c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CSharp async 原理.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "831e63265cc5ba86",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "腾讯笔试题笔记.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ec8b7f81bf08b0d0",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "54515aa596dbb17a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3次要大类/软体使用/ob插件与功能测试/SlideTest.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "34593497758cfdb4",
+    "type": "split",
+    "children": [
+      {
+        "id": "fd45870ac7f612e8",
+        "type": "tabs",
+        "dimension": 78.47222222222221,
+        "children": [
+          {
+            "id": "5f86a6e06d655624",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": true,
+                "collapseAll": false,
+                "extraContext": true,
+                "sortOrder": "byModifiedTime"
+              }
+            }
+          },
+          {
+            "id": "d877ea44084031f0",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byModifiedTime"
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "a7651838e1923329",
+        "type": "tabs",
+        "dimension": 21.52777777777778,
+        "children": [
+          {
+            "id": "0ce66fa4951ef0d1",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 254.5,
+    "collapsed": true
+  },
+  "right": {
+    "id": "c7e5856abca22fd5",
+    "type": "split",
+    "children": [
+      {
+        "id": "04a7bd17f37e184e",
+        "type": "tabs",
+        "dimension": 41.22211445198836,
+        "children": [
+          {
+            "id": "2c32432b5aa7648e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "找出数组中重复的数字.md"
+              }
+            }
+          },
+          {
+            "id": "ca43508c3b965953",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "f28b807712b5cc0e",
+            "type": "leaf",
+            "state": {
+              "type": "FANTASY_CALENDAR",
+              "state": {}
+            }
+          },
+          {
+            "id": "6a0c5701a566cb64",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "39c8ed13be2c6975",
+        "type": "tabs",
+        "dimension": 26.77012609117362,
+        "children": [
+          {
+            "id": "f6fbced34a309480",
+            "type": "leaf",
+            "state": {
+              "type": "reminder-list",
+              "state": {}
+            }
+          },
+          {
+            "id": "398c3b46f15ecc2a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "c1aa90699bfb3f27",
+        "type": "tabs",
+        "dimension": 32.007759456838016,
+        "children": [
+          {
+            "id": "4ce0c1e6afa65ee8",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "找出数组中重复的数字.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "07fd68f3ccaa40fd",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "找出数组中重复的数字.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 250.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "workspaces:Manage workspace layouts": false,
+      "canvas:Create new canvas": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-advanced-slides:Show Slide Preview": false,
+      "templater-obsidian:Templater": false,
+      "fantasy-calendar:Open Large Fantasy Calendar": false,
+      "random-note:Open random note": false
+    }
+  },
+  "active": "720838e0149dabcb",
+  "lastOpenFiles": [
+    "面试问题辑录（网络编程OSITCPIP）.md",
+    "百度飞桨.md",
+    "3次要大类/软体使用/ob插件与功能测试/SlideTest.md",
+    "毕业实习入口.md",
+    "鼎甲实习准备物品.md",
+    "鼎甲实习.md",
+    "毕业校内实习.md",
+    "TOC目录例子.md",
+    "中国法治现状.md",
+    "整建制事项.md"
+  ]
+}

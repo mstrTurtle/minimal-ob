@@ -1,0 +1,16 @@
+{
+  "theme": "moonstone",
+  "translucency": false,
+  "baseFontSize": 17,
+  "cssTheme": "",
+  "accentColor": "#007acc",
+  "textFontFamily": "Birka LT Pro,Myriad Pro,Noto Serif SC,Sarasa Gothic SC,Consolas,Fira Code,SimSun",
+  "showViewHeader": true,
+  "nativeMenus": false,
+  "monospaceFontFamily": "The Sans Mono,Sarasa Fixed SC,Source Code Pro,Fira Code,SimHei",
+  "interfaceFontFamily": "Myriad Pro,Fira Code,Consolas,Sarasa Gothic SC,SimSun,Noto Serif SC",
+  "enabledCssSnippets": [
+    "whiteimg",
+    "typo"
+  ]
+}
